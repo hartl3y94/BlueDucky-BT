@@ -1,6 +1,6 @@
 # BlueDucky (Android) 🦆
 
-Thanks to all the people at HackNexus. Make sure you come join us on VC !
+Thanks to all the people at HackNexus ❤. Make sure you come join us on VC !
 https://discord.gg/HackNexus
 
 1. [saad0x1's GitHub](https://github.com/saad0x1)
